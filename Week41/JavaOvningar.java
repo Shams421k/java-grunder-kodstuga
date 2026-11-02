@@ -1,4 +1,4 @@
-package week2;
+package Week41;
 import java.util.Scanner;
 public class JavaOvningar {
 

@@ -1,4 +1,4 @@
-package week1;
+package Week40;
 public class PersonCard {
     public static void main(String[] args) 
     { // Lägg övningens kod här. 

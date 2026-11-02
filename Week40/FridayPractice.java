@@ -1,4 +1,4 @@
-package week1;
+package Week40;
 public class FridayPractice {
     public static void main(String[] args) {
         System.out.println("Fredagens kodstuga!");

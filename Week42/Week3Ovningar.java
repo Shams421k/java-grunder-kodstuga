@@ -1,5 +1,5 @@
 
-package week3;
+package Week42;
 
 public class Week3Ovningar {
 
